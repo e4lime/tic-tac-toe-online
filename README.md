@@ -13,7 +13,7 @@ Works with java 1.8
 ###The master server view
 ![image](https://cloud.githubusercontent.com/assets/7015066/16547512/e1f4ba3e-4170-11e6-8537-32c41101faf7.png)
 
-###The Client view of client servers registered to the master server
+###The Client view of registered clients servers
 ![image](https://cloud.githubusercontent.com/assets/7015066/16547513/e396acbc-4170-11e6-990f-07ee8b007393.png)
 
 ###In game
