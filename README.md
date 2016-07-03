@@ -3,6 +3,8 @@ An online tic tac toe game made in java. Contains a "master server" that keeps t
 
 Made for a course in internet programming.
 
+Works with java 1.8
+
 ## Screenshots
 
 ###Intro screen
