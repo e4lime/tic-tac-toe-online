@@ -13,8 +13,8 @@ Works with java 1.8
 ### The master server view
 ![image](https://user-images.githubusercontent.com/7015066/31672751-ab9a169a-b35d-11e7-8ec0-8929b183e309.png)
 
-### The Client view of registered game servers
+### A client's view of registered game servers
 ![image](https://user-images.githubusercontent.com/7015066/31672769-b7e70c8c-b35d-11e7-882d-4a1a54018fa3.png)
 
-### One clients in-game view
+### A client's in-game view
 ![image](https://user-images.githubusercontent.com/7015066/31672774-bbbed9fc-b35d-11e7-82a3-62c6ff683349.png)
