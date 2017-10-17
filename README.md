@@ -1,5 +1,10 @@
 # tic-tac-toe-online
-An online tic tac toe game made in java. Contains a "master server" that keeps tracks of active game servers. Clients can via the master server either create their own server or connect to other clients servers.
+A classic Tic-tac-toe game with a game server room.
+
+Clients connect to a master server which keeps track of active game servers. Clients can create their custom games and register them with the master server so other clients can easily find them. The custom games themselves are run on the hosting client. Made in Java with the network package java.net.
+
+ Made in Java with the network package java.net.
+                    
 
 Works with java 1.8
 
